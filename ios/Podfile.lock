@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - zdefend_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - zdefend_flutter (from `.symlinks/plugins/zdefend_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  zdefend_flutter:
+    :path: ".symlinks/plugins/zdefend_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  zdefend_flutter: f8e95f34932af870080d24a2952158fcfa255f33
+
+PODFILE CHECKSUM: 251cb053df7158f337c0712f2ab29f4e0fa474ce
+
+COCOAPODS: 1.16.2
